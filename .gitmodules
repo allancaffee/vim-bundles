@@ -13,3 +13,12 @@
 [submodule "pytest.vim"]
 	path = pytest.vim
 	url = https://github.com/alfredodeza/pytest.vim.git
+[submodule "jedi-vim"]
+	path = jedi-vim
+	url = git@github.com:davidhalter/jedi-vim.git
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "coveragepy.vim"]
+	path = coveragepy.vim
+	url = https://github.com/alfredodeza/coveragepy.vim.git
