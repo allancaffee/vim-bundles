@@ -22,3 +22,6 @@
 [submodule "coveragepy.vim"]
 	path = coveragepy.vim
 	url = https://github.com/alfredodeza/coveragepy.vim.git
+[submodule "vim-repeat"]
+	path = vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
